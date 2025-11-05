@@ -1,0 +1,10 @@
+.nuxt
+.output
+.vscode
+node_modules
+npm-debug.log
+coverage
+*.local
+.env
+.env.*
+data/app.db

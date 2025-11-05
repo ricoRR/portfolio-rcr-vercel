@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 2000">
+  <rect width="1200" height="2000" fill="#0a0a0a"/>
+  <rect x="80" y="80" width="1040" height="220" fill="none" stroke="#ffdd00" stroke-dasharray="16 12" stroke-width="4" rx="24"/>
+  <text x="100" y="160" fill="#ffdd00" font-family="Arial" font-size="32">Hero · Titre + CTA</text>
+  <rect x="80" y="360" width="1040" height="260" fill="none" stroke="#ffdd00" stroke-dasharray="16 12" stroke-width="3" rx="24"/>
+  <text x="100" y="440" fill="#ffdd00" font-family="Arial" font-size="28">Section À propos · résumé & objectifs</text>
+  <rect x="80" y="660" width="1040" height="260" fill="none" stroke="#ffdd00" stroke-dasharray="16 12" stroke-width="3" rx="24"/>
+  <text x="100" y="740" fill="#ffdd00" font-family="Arial" font-size="28">Points forts · Carousel</text>
+  <rect x="80" y="960" width="1040" height="320" fill="none" stroke="#ffdd00" stroke-dasharray="16 12" stroke-width="3" rx="24"/>
+  <text x="100" y="1040" fill="#ffdd00" font-family="Arial" font-size="28">Projets</text>
+  <rect x="80" y="1320" width="1040" height="260" fill="none" stroke="#ffdd00" stroke-dasharray="16 12" stroke-width="3" rx="24"/>
+  <text x="100" y="1400" fill="#ffdd00" font-family="Arial" font-size="28">Galerie + Modal</text>
+  <rect x="80" y="1600" width="1040" height="180" fill="none" stroke="#ffdd00" stroke-dasharray="16 12" stroke-width="3" rx="24"/>
+  <text x="100" y="1680" fill="#ffdd00" font-family="Arial" font-size="28">Section Authentification</text>
+  <rect x="80" y="1820" width="1040" height="120" fill="none" stroke="#ffdd00" stroke-dasharray="16 12" stroke-width="3" rx="24"/>
+  <text x="100" y="1900" fill="#ffdd00" font-family="Arial" font-size="28">Formulaire Contact</text>
+</svg>
